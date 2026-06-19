@@ -1,4 +1,4 @@
-# 🛒 Customer Purchasing Behavior Analysis
+# Customer Purchasing Behavior Analysis
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/XuanTruong28/Customer_Purchasing_Behavior/blob/main/Customer_Purchasing_Behavior.ipynb#scrollTo=zwN0agHxV68h)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
