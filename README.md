@@ -59,5 +59,4 @@ The clustering model successfully divided the customer base into 5 distinct pers
 ## 8. Conclusion
 This project successfully demonstrates the power of Unsupervised Learning in transforming raw retail data into actionable business intelligence. By clearly identifying customer segments, the analysis provides a data-driven framework for optimizing marketing ROI and building long-term customer value.
 
-
 *Feel free to reach out via [truongxuan2834@gmail.com](mailto:truongxuan2834@gmail.com) for any discussion regarding this project.*
