@@ -25,7 +25,7 @@ To determine the most robust customer segments, Hierarchical Clustering with a d
 ![Dendrogram Analysis](Chart/Dendrogram.png)
 *Figure 1: Hierarchical Clustering Dendrogram utilizing a color threshold to visually identify distinct segments.*
 
-![Cluster Centers Heatmap](Chart/Heatmap 5 Cluster.png)
+![Cluster Centers Heatmap](Chart/Heatmap5Cluster.png)
 *Figure 2: Heatmap of Cluster Centers displaying the standardized mean values for age, income, and loyalty score across 5 clusters.*
 
 ## 4. Customer Personas & Business Insights
